@@ -1,15 +1,15 @@
 # human-Resources-projects-.DEPI
 
-#Team Member 
-Amr Galal 
+# Team Member 
+# Amr Galal 
 Omar Fouad 
 Kyrillos Maurice 
 Mohamed Ashour 
 Mohamed Elfishawy
 AbdelRahman morsi
 
-#Week 1: 
-#Data Cleaning and Preprocessing 
+# Week 1: 
+# Data Cleaning and Preprocessing 
 ● Tasks: 
 o Data Preprocessing: Clean and preprocess the data using Power BI. 
 o Tools: Power BI. 
@@ -17,8 +17,8 @@ o Tools: Power BI.
 o Cleaned dataset ready for analysis. 
 o Data preprocessing notebook. 
 
-#Week 2: Analysis Questions Phase 
-#● Tasks: 
+# Week 2: Analysis Questions Phase 
+# ● Tasks: 
 o Determine Data Analysis Questions: Determine all possible analysis questions that can be deducted from the given dataset and would be of interest to the organization’s decision makers, e.g., what is the relation between the employees ages and their satisfaction level? 
 o Tools: Power BI. 
 ● Deliverables: 
